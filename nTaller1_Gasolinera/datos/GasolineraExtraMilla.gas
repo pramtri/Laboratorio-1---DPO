@@ -1,0 +1,13 @@
+tipo:diesel:7:76.0
+tipo:premium:10:52.0
+tipo:extra premium:12:79.16666666666666
+tipo:corriente:8:59.0
+surtidor:Juana:diesel:0.0:premium:0.0:extra premium:0.0:corriente:41.0
+surtidor:Camilo:diesel:23.0:premium:38.0:extra premium:0.0:corriente:0.0
+surtidor:Pepe:diesel:31.0:premium:0.0:extra premium:4.166666666666667:corriente:0.0
+surtidor:Pepe:diesel:0.0:premium:0.0:extra premium:6.666666666666667:corriente:0.0
+empleado:Juana:328
+empleado:Camilo:541
+empleado:Juan:0
+empleado:Ramon:0
+empleado:Pepe:347
